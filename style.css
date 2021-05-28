@@ -1,0 +1,36 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  /* border: dashed; */
+}
+
+h1 {
+  font-size: 70px;
+  font-family: Squada One;
+  color: white;
+}
+h2 {
+  font-size: 50px;
+  font-family: Squada One;
+  color: white;
+}
+
+button {
+  font-size: 40px;
+  padding: 15px 20px;
+  background-color: rgba(255, 255, 255, 0);
+  border: 5px solid white;
+  font-family: Squada One;
+  color: white;
+}
+button:hover {
+  cursor: pointer;
+}
+
+p {
+  font-size: 40px;
+  font-family: Squada One;
+}
